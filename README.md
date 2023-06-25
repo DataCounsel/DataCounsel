@@ -9,3 +9,4 @@
 📚 Outside of the data realm, you can find me exploring new technologies, attending tech meetups, and staying up-to-date with the latest trends in the data engineering and analytics space. I'm always open to connecting with fellow data enthusiasts for discussions, collaborations, or to share insights!
 
 Let's leverage the power of data engineering and analytics to unlock valuable insights and drive impactful decisions! 🌍🚀
+You can reach me @ writetodebrup@gmail.com
