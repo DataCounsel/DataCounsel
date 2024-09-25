@@ -1,16 +1,14 @@
-## Hi there 👋
+📊 Big Data Enthusianst | 📈 Analytics | 🛠️ Data Pipelines | 📉 Data Visualization |🛢️ Databases
 
-<!--
-**DataCounsel/DataCounsel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
+👋 Hello! I'm Debrup, a passionate data enthusiast skilled in data engineering and analytics. I thrive on the challenges of building robust data pipelines, extracting insights, and transforming raw data into actionable information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 On GitHub, you'll find a collection of my data-centric projects, showcasing my skills in data engineering and analytics. I believe in the power of collaboration and open-source.
+
+📚 Outside of the data realm, you can find me exploring new technologies, attending tech meetups, and staying up-to-date with the latest trends in the data engineering and analytics space. I'm always open to connecting with fellow data enthusiasts for discussions, collaborations, or to share insights!
+
+Let's leverage the power of data engineering and analytics to unlock valuable insights and drive impactful decisions! 🌍🚀
+
+
+![](https://komarev.com/ghpvc/?username=DataCounsel&style=flat-square&color=yellow)
